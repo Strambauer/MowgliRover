@@ -8,3 +8,6 @@
 [submodule "src/open_mower_ros"]
 	path = src/open_mower_ros
 	url = https://github.com/Strambauer/open_mower_ros.git
+[submodule "src/ros_imu_bno055"]
+	path = src/ros_imu_bno055
+	url = https://github.com/RoboticArts/ros_imu_bno055.git
